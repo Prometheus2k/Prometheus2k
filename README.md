@@ -6,7 +6,7 @@
 
 - 🧑‍💼 I’m working as a Software Engineer at [Baton Systems](https://batonsystems.com/)
 
-- 🌱 I’m currently learning **Next.js,Solidity**
+- 🌱 I’m currently learning **Next.js, Solidity**
 
 - 🏫 Btech degree in Computer Science Engineering from [Govt. Engineering College, Thrissur](https://gectcr.ac.in/)
 
